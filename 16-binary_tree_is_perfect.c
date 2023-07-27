@@ -47,7 +47,7 @@ const binary_tree_t *get_leaf(const binary_tree_t *tree)
  * is_perfect_recursive - Checks if a binary tree is perfect recursively.
  * @tree: A pointer to the root node of the tree to check.
  * @leaf_depth: The depth of one leaf in the binary tree.
- * @level: Level of current node.
+ * 
  *
  * Return: If the tree is perfect, 1, otherwise 0.
  */
